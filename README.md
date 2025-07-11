@@ -1,61 +1,30 @@
-# Adven-Tourism
 
-Welcome to **Adven-Tourism**, a responsive and user-friendly tourism website built with **HTML**, **CSS**, and a bit of **JavaScript**. This project showcases beautiful travel destinations, package deals, booking forms, and an engaging UI — ideal for learners and travel startups.
+ 
+# Adventour: Your Gateway to Unforgettable Adventures
 
----
+Welcome to Adventour, a travel website crafted to help you to embark on extraordinary journeys. We use the power of HTML, CSS, and a pinch of JavaScript to create a visually captivating and user-friendly experience.  <br/>
+Adventour is an open-source project; we welcome you to explore its codebase and contributeirrespective of whether you're a seasoned developer or just a beginner. Adventour serves as a valuable learning tool to hone your skills and expand your creativity <br />
 
-## 🚀 Features
+-**Unzip and Explore:** Download the provided `.zip file`, extract the contents, and open `index.html` in the web browser of choice to experience Adventour firsthand.
+-**Live Demo:** Alternatively, get a glimpse of Adventour in action by visiting our live demo at my [Github Repository](https://github.com/iamit010/Adventour-tourism-website). <br/>
 
-- 🏖️ Stunning homepage with video background
-- 🗺️ Locations with details and images
-- 📦 Travel packages with pricing
-- 📝 Booking form
-- 📞 Contact form
-- 📱 Fully responsive design
+<div align="center">
+  <br />
+  <a href="https://iamit010.github.io/adventour-tourism-website/"><strong>➥ Live Demo</strong></a>
+</div>
 
----
+## Screeshot
 
-## 📁 Folder Structure
+![Tourest Desktop Demo](./Adventour.png "Desktop Demo")
 
-```
-Adventour/
-├── index.html
-├── booking.html
-├── contact.html
-├── info.html
-├── locations.html
-├── package.html
-├── Adventour.png        # Screenshot
-└── assets/
-    ├── css/
-    ├── files/
-    └── js/
-```
+## Tools Required
+All you need is a text editor of your preference. No complex installations or software configurations are necessary.
 
----
-
-## 🛠️ Tools Used
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- [Google Fonts](https://fonts.google.com/)  
-- [Boxicons](https://boxicons.com/)
-
----
-
-## 💻 Getting Started
-
-To run the website locally:
-
-1. Clone this repository or download the ZIP file  
-2. Extract the contents  
-3. Open `index.html` in your browser to explore the website  
-
----
+## Running the App
+* Simply extract the files from the `.zip` file.
+  > Open `index.html` in the browser of your choice.
+  > Run the app.
 
 
-## 📜 License
 
-This project is open source and free to use.
 
