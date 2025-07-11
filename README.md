@@ -10,7 +10,7 @@ Adventour is an open-source project; we welcome you to explore its codebase and 
 
 <div align="center">
   <br />
-  <a href="https://github.com/madhuri-deekshitha/Adven-Tourism/"><strong>➥ Live Demo</strong></a>
+  <a href="http://127.0.0.1:5501/index.html"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Screeshot
